@@ -1,0 +1,3 @@
+service:
+  name: Hello World from Test Config2
+  environment: prod
