@@ -1,1 +1,3 @@
-
+service:
+  name: Hello World from Test Config1
+  environment: test
